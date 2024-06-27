@@ -1,9 +1,11 @@
 # Spring-Setup
-After setting the environment. The first picture below will be what your application should look like. All IDE's are different. I personally love intelliJ IDEA becuase it makes my life easier
+After setting the environment. The first picture below will be what your application should look like. All IDE's are different. I personally love intelliJ IDEA becuase it makes my life easier.
+
 ![Spring](https://github.com/kendallw763/Spring-Setup/assets/63067332/5afee614-9c3f-470e-b9fd-b91266c822b6)
 
 For the application to run properly (I am running Mac OS so, your situation may not be fixed by the following...) One will need to make a small change in the build.gradle file. 
-
+For your editor if you are using IntelliJ IDEA you will want to navigate to the build.gradle file then, double click to open.
+Next, towords the bottom of the screen there is an object look-alike. Directly next to implementation will be a snippet of code... ['org.springframework.boot:spring-boot-starter']
 
 ![Spring3](https://github.com/kendallw763/Spring-Setup/assets/63067332/80c87c24-db8d-4a9d-9ee6-c2084ac693a5)
 
